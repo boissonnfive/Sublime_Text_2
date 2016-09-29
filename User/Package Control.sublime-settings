@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"FindKeyConflicts",
+		"Markdown Preview",
+		"Markdown Todo",
+		"MarkdownEditing",
+		"orgmode",
+		"Package Control",
+		"PowerShell",
+		"SmartMarkdown",
+		"VBScript"
+	]
+}
