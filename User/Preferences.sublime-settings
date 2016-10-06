@@ -1,19 +1,14 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
-    // Police
 	"font_face": "Consolas",
 	"font_size": 11,
-
-	// L'onglet contenant un fichier modifié est en couleur
 	"highlight_modified_tabs": true,
-
-	"log_commands": true,
-	"log_input": true,
-	"tab_size" : 4,
-
-	// Les paquets qui ne sont pas chargés
 	"ignored_packages":
 	[
-		"Vintage"
-	]
+		"Vintage",
+		"Markdown"
+	],
+	"log_commands": true,
+	"log_input": true,
+	"tab_size": 4
 }
