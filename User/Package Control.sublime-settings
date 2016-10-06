@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
 		"FindKeyConflicts",
 		"Markdown Preview",
 		"Markdown Todo",
