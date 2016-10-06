@@ -5,12 +5,13 @@ A faire:
 1. SmartMarkdown:
     - shift+tab : tout plier/déplier
     - tab : plier un niveau
+
 2. Org-mode
-	- modif pour la check-list
-	- écrire les raccourcis :
-	    - "-c"+tab         : crée une liste non cochée
-		- Entrer           : coche la case à cocher
-		- ctrl+alt+shift+p : Affiche le scope
+    - modif pour la check-list
+	  - écrire les raccourcis :
+        - "-c"+tab         : crée une liste non cochée
+        - Entrer           : coche la case à cocher
+        - ⌃ + ⇧ + P       : Affiche le scope
 
 
 ## Paquets installés ##
@@ -152,6 +153,12 @@ Aller dans la console (Ctrl+`) ou View -> Show Console et taper :
 ***
 
 ## Modifications ##
+
+### Complétion ###
+
+source : <http://docs.sublimetext.info/en/latest/reference/completions.html>
+
+(voir mon fichier Bruno.sublime-completions)
 
 ### Première lettre en majuscule ###
 
