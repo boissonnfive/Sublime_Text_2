@@ -7,13 +7,14 @@
 	[
 		"Alignment",
 		"FindKeyConflicts",
-		"Markdown Preview",
 		"Markdown Todo",
 		"MarkdownEditing",
+		"MarkdownPreview",
 		"orgmode",
 		"Package Control",
 		"PowerShell",
 		"SmartMarkdown",
-		"VBScript"
+		"VBScript",
+		"View In Browser"
 	]
 }
